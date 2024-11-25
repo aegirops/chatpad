@@ -1,5 +1,5 @@
 {
-  "defaultModel": "gpt-4-turbo",
+  "defaultModel": "gpt-3.5-turbo",
   "defaultType": "openai",
   "defaultAuth": "api-key",
   "defaultBase": "",
@@ -51,32 +51,16 @@
       "label": "GPT-4-32K-0314 (Limited Beta, Legacy)"
     },
     {
-      "value": "gpt-4-turbo",
-      "label": "GPT-4-turbo"
-    },
-    {
-      "value": "gpt-4-turbo-2024-04-09",
-      "label": "GPT-4-turbo-2024-04-09"
-    },
-    {
-      "value": "gpt-4-turbo-preview",
-      "label": "GPT-4-turbo-preview"
-    },
-    {
-      "value": "gpt-4-0125-preview",
-      "label": "GPT-4-0125-Preview"
-    },
-    {
       "value": "gpt-4-1106-preview",
       "label": "GPT-4-1106-Preview"
     },
     {
-      "value": "gpt-4o",
-      "label": "GPT-4o"
+      "value": "gpt-4-turbo",
+      "label": "GPT-4 Turbo"
     },
     {
-      "value": "gpt-4o-2024-05-13",
-      "label": "GPT-4o-2024-05-13"
+      "value": "gpt-4o",
+      "label": "GPT-4 omni"
     }
   ],
   "writingCharacters": [
